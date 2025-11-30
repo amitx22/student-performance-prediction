@@ -12,11 +12,8 @@ It includes a complete end-to-end pipeline:
 
 ---
 
-## 🚀 Live Demo  
-(Add your Streamlit App URL here after deployment)  
-Example:  
-https://student-performance-capstone.streamlit.app/
-
+## 🚀  Demo  
+ https://youtu.be/QFjIXKASXrM
 ---
 
 ## 📊 Project Overview
